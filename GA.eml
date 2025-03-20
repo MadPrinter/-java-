@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/GA"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="jcommon-0.9.6" value="project"/>
+		<level name="jfreechart-1.5.0-javadoc" value="project"/>
+		<level name="jfreechart-1.5.0-javadoc (2)" value="project"/>
+		<level name="xchart-3.8.6" value="project"/>
+		<level name="xchart-demo-3.8.6" value="project"/>
+	</levels>
+</component>
